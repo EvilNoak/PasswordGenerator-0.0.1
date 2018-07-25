@@ -1,0 +1,17 @@
+﻿<Window x:Class="TeacherAssistant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TeacherAssistant"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="792"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="NumberofGenerate" HorizontalAlignment="Left" Height="73" Margin="291,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="Save" Content="Сгенерировать и сохранить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="162" Margin="291,259,0,0" Height="50" Click="Save_Click"/>
+        <Label Content="Влад Николаев © 26.07.2018" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

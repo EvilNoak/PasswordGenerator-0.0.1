@@ -1,0 +1,15 @@
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\bin\Debug\TeacherAssistant.exe.config
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\bin\Debug\TeacherAssistant.exe
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\bin\Debug\TeacherAssistant.pdb
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\App.g.cs
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant_MarkupCompile.cache
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant_MarkupCompile.lref
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\MainWindow.baml
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.g.resources
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.Properties.Resources.resources
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.exe
+C:\Users\ПК\source\repos\TeacherAssistant\TeacherAssistant\obj\Debug\TeacherAssistant.pdb
